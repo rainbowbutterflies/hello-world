@@ -1,0 +1,1 @@
+It's very easy to make some words such as  name  **Jessica bold** and other words such as age * 10 italic* with Markdown. You can even [link to Google!](http://google.com)  and [link to wiki!](https://www.wikipedia.org/)
